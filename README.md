@@ -3,7 +3,7 @@ apt-get upgrade -y
 pkg install python -y
 pkg install python2 -y
 pkg install git -y
-pip install lolcat
+pip install locate
  git clone https://github.com/Shamim20BD
 cd $HOME
 ls
